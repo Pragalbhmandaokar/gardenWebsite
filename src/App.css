@@ -6,7 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.fontApercu {
+  font-family: "apercu";
+  letter-spacing: 5px;
+  line-height: 50px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
